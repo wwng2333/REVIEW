@@ -36,6 +36,8 @@
 </details>
 
 ## 友情链接
-- 古博：[gubo.org](https://www.gubo.org)
+- GayHub：[gubo.org](https://www.gubo.org)
 - LowendAFF：[lowendaff.com](https://lowendaff.com)
-- 咸鱼博客：[bug.cy](https://www.bug.cy)
+- 老咸鱼：[bug.cy](https://www.bug.cy)
+- Paji：[blog.mntpaji.com](https://blog.mntpaji.com)
+- 米莉亚：[mireya.moe](https://mireya.moe)
