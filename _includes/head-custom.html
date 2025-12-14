@@ -64,6 +64,57 @@ details[open] summary::before {
 .main-content {
   padding-top: 2rem;
 }
+
+.toc-container {
+  margin: 1.25rem 0;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e5e5e5;
+  border-radius: 0.25rem;
+  background: #fafafa;
+}
+
+.toc-container ul {
+  margin: 0.5rem 0 0;
+}
+
+.toc-container li {
+  font-size: 0.95rem;
+}
+
+.toc-container a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.toc-container a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 64em) {
+  .main-content {
+    padding-right: 18rem;
+  }
+
+  .toc-container {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    width: 16rem;
+    max-height: calc(100vh - 2rem);
+    overflow: auto;
+    margin: 0;
+    z-index: 1000;
+    background: rgba(250, 250, 250, 0.98);
+  }
+
+  .toc-container h2 {
+    margin-top: 0;
+  }
+
+  .toc-container li {
+    font-size: 0.85rem;
+  }
+}
 </style>
 <script>
 document.addEventListener('DOMContentLoaded', function () {

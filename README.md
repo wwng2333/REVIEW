@@ -20,3 +20,8 @@
 ## 现有评测
 - [Misaka.HKG.Opt](https://nxtrace.github.io/REVIEW/reviews/misaka-hkg-opt/)
 - [Misaka.TPE.Opt](https://nxtrace.github.io/REVIEW/reviews/misaka-tpe-opt/)
+
+## 友情链接
+- 古博：<https://www.gubo.org>
+- LowendAFF：<https://lowendaff.com/>
+- 咸鱼博客：<https://www.bug.cy>

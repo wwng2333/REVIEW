@@ -8,15 +8,19 @@ redirect_from:
 
 # Misaka.TPE.Opt
 
+<div class="toc-container" markdown="1">
+
 ## 目录
 {: .no_toc }
 
 * TOC
 {:toc}
 
+</div>
+
 ## 买
 
-### 规格对照（可展开查看）
+### 规格对照
 
 <details markdown="1">
 <summary>Standard NVMe (Gen3, WAN Latency Optimized, AMD EPYC)</summary>
