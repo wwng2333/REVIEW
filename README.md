@@ -5,7 +5,7 @@
 与我联系(意见/投稿)：[t.me/nanaselog](https://t.me/nanaselog)  
 
 ## 现有评测
-<details open>
+<details open markdown="1">
 <summary>Misaka</summary>
 
 - [Misaka.HKG.Opt](https://review.nxtrace.org/reviews/misaka-hkg-opt/)
@@ -13,21 +13,21 @@
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary>DMIT</summary>
 
 - （待补充）
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary>Saltyfish</summary>
 
 - （待补充）
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary>xTom</summary>
 
 - [xTom Tokyo EPYC Gen 2](https://review.nxtrace.org/reviews/xtom-tokyo-epyc-gen2/)
