@@ -9,6 +9,6 @@
 - [xTom Singapore EPYC](https://review.nxtrace.org/reviews/xtom-singapore-epyc/)
 
 ## 友情链接
-- 古博：<https://www.gubo.org>
-- LowendAFF：<https://lowendaff.com>
-- 咸鱼博客：<https://www.bug.cy>
+- 古博：[gubo.org](https://www.gubo.org)
+- LowendAFF：[lowendaff.com](https://lowendaff.com)
+- 咸鱼博客：[bug.cy](https://www.bug.cy)

@@ -39,7 +39,15 @@ redirect_from:
 
 ## 评
 
-三网 CTG GIA（aka CN2 GIA）回程；去程方面电信 CTG GIA、联通 CUG VIP（aka 9929）、移动 CMI。IPv6 有三网优化但目前电信方向（163）可用性更好。
+市场上少见的新加坡CN2小鸡，联通方向有9929去程但是没给回程，算是电信快乐鸡吧，联通用户要看所在地区跨网拥堵情况，考虑产品价格，更推荐电信宽带的富哥购买
+**电信用户速度还是比较稳定**的跑到 600Mbps 以上  
+**移动联通用户慎重选择**
+
+三网 CTG GIA(aka CN2 GIA) 回程  
+电信 CTG GIA 去程  
+联通 CUG VIP(aka 9929) 去程  
+移动 CMI 去程  
+另 IPv6 有三网优化但是就电信方向能用（163）  
 
 ## 测
 
@@ -198,5 +206,3 @@ redirect_from:
 ![解锁情况 2]({{ '/assets/images/xtom-singapore-epyc/解锁情况/IMAGE 2025-12-14 17:56:53.jpg' | relative_url }})
 
 </details>
-
-#xTom #review
