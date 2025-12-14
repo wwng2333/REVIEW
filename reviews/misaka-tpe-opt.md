@@ -12,7 +12,7 @@ redirect_from:
 
 ### 规格对照（可展开查看）
 
-<details>
+<details markdown="1">
 <summary>Standard NVMe (Gen3, WAN Latency Optimized, AMD EPYC)</summary>
 
 | 套餐 | vCPU | 内存 | 本地 NVMe SSD | 流量（单向 In+Out） | 月付 |
@@ -43,7 +43,7 @@ redirect_from:
 
 ### 路由表现
 
-<details>
+<details markdown="1">
 <summary>IPv4 去程</summary>
 
 <div align="center">
@@ -54,7 +54,7 @@ redirect_from:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>IPv4 回程 · ICMP</summary>
 
 <div align="center">
@@ -65,7 +65,7 @@ redirect_from:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>IPv4 回程 · TCP</summary>
 
 <div align="center">
@@ -81,7 +81,7 @@ redirect_from:
 - **实时三网 TCP**：<https://ping.nxtrace.org/goto/6JCjITGvR>
 - **Looking Glass**：<https://ping.sx/mtr?p=234>
 - **北京三网延迟监控截图**：
-  <details>
+  <details markdown="1">
   <summary>展开查看</summary>
   
   ![北京三网延迟监控截图]({{ '/assets/images/misaka-tpe-opt/北京三网延迟监控截图(近七天).jpg' | relative_url }})
@@ -90,56 +90,56 @@ redirect_from:
 
 ### 北京四网代理单线程测速
 
-<details>
+<details markdown="1">
 <summary>北京移动晚高峰</summary>
 
 ![北京移动晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京移动晚高峰.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京移动白天</summary>
 
 ![北京移动白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京移动白天.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京联通晚高峰</summary>
 
 ![北京联通晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京联通晚高峰.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京联通白天</summary>
 
 ![北京联通白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京联通白天.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京网通晚高峰</summary>
 
 ![北京网通晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京网通晚高峰.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京网通白天</summary>
 
 ![北京网通白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京网通白天.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京电信晚高峰</summary>
 
 ![北京电信晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京电信晚高峰.jpg' | relative_url }})
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京电信白天</summary>
 
 ![北京电信白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京电信白天.jpg' | relative_url }})
@@ -148,7 +148,7 @@ redirect_from:
 
 ### 机器性能跑分
 
-<details>
+<details markdown="1">
 <summary>综合性能跑分（YABS·GB5）</summary>
 
 ![综合性能跑分]({{ '/assets/images/misaka-tpe-opt/综合性能跑分.jpg' | relative_url }})
@@ -157,7 +157,7 @@ redirect_from:
 
 ### IP 解锁
 
-<details>
+<details markdown="1">
 <summary>流媒体 / 平台解锁记录</summary>
 
 ![解锁情况 1]({{ '/assets/images/misaka-tpe-opt/解锁情况/IMAGE 2025-12-14 14:19:55.jpg' | relative_url }})

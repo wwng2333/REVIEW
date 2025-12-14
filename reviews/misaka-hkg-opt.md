@@ -12,7 +12,7 @@ redirect_from:
 
 ### 规格对照（可展开查看）
 
-<details>
+<details markdown="1">
 <summary>Standard NVMe (Gen3, AMD EPYC)</summary>
 
 | 套餐 | vCPU | 内存 | 本地 NVMe SSD | 流量（单向 In+Out） | 月付 |
@@ -30,7 +30,7 @@ redirect_from:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Standard NVMe (Gen3, WAN Latency Optimized, AMD EPYC)</summary>
 
 | 套餐 | vCPU | 内存 | 本地 NVMe SSD | 流量（单向 In+Out） | 月付 |
@@ -61,7 +61,7 @@ redirect_from:
 
 ### 路由表现
 
-<details>
+<details markdown="1">
 <summary>IPv4 去程</summary>
 
 <div align="center">
@@ -72,7 +72,7 @@ redirect_from:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>IPv4 回程 · ICMP</summary>
 
 <div align="center">
@@ -83,7 +83,7 @@ redirect_from:
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>IPv4 回程 · TCP</summary>
 
 <div align="center">
@@ -99,7 +99,7 @@ redirect_from:
 - **实时三网 TCP**：<https://ping.nxtrace.org/goto/6JCjITGvR>
 - **Looking Glass**：<https://ping.sx/mtr?p=234>
 - **北京三网延迟监控截图**：
-  <details>
+  <details markdown="1">
   <summary>展开查看</summary>
   
   ![2025-12-14 14.01.29](https://github.com/user-attachments/assets/885afb75-f39d-4b82-8efa-438e9697549a)
@@ -108,56 +108,56 @@ redirect_from:
 
 ### 北京四网代理单线程测速
 
-<details>
+<details markdown="1">
 <summary>北京移动晚高峰</summary>
 
 ![北京移动晚高峰](https://github.com/user-attachments/assets/16ea14c9-4938-4829-8dd8-23b0e248217d)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京移动白天</summary>
 
 ![北京移动白天](https://github.com/user-attachments/assets/75bfe783-d8e3-4852-94ca-90bb91f98d17)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京联通晚高峰</summary>
 
 ![北京联通晚高峰](https://github.com/user-attachments/assets/dc104038-d5cf-4a6f-906d-55af5d0113dd)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京联通白天</summary>
 
 ![北京联通白天](https://github.com/user-attachments/assets/7a1543ae-493c-4ba1-a198-52aebca1e666)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京网通晚高峰</summary>
 
 ![北京网通晚高峰](https://github.com/user-attachments/assets/2d9e4efa-2107-4407-aabe-7f219bc496d4)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京网通白天</summary>
 
 ![北京网通白天](https://github.com/user-attachments/assets/bf5df076-3099-450e-8e83-b828ff8ecc6b)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京电信晚高峰</summary>
 
 ![北京电信晚高峰](https://github.com/user-attachments/assets/cdd66c39-4925-457c-8e1e-287c293e16ad)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>北京电信白天</summary>
 
 ![北京电信白天](https://github.com/user-attachments/assets/67b8af64-c6cc-4e30-916c-b5c0450dd1f7)
@@ -166,7 +166,7 @@ redirect_from:
 
 ### 机器性能跑分
 
-<details>
+<details markdown="1">
 <summary>综合性能跑分（YABS·GB5）</summary>
 
 ![IMAGE 2025-12-14 13:34:19](https://github.com/user-attachments/assets/2e4e78cb-102a-4cf3-b122-a76033379523)
@@ -175,7 +175,7 @@ redirect_from:
 
 ### IP 解锁
 
-<details>
+<details markdown="1">
 <summary>流媒体 / 平台解锁记录</summary>
 
 ![IMAGE 2025-12-14 13:34:28](https://github.com/user-attachments/assets/066e3164-5206-4025-b23f-341c214715f3)
