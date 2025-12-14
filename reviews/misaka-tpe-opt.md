@@ -149,7 +149,7 @@ redirect_from:
 ### 机器性能跑分
 
 <details markdown="1">
-<summary>综合性能跑分（YABS·GB5）</summary>
+<summary>综合性能跑分（YABS·GB4）</summary>
 
 ![综合性能跑分]({{ '/assets/images/misaka-tpe-opt/综合性能跑分.jpg' | relative_url }})
 
