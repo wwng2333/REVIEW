@@ -41,3 +41,4 @@
 - 老咸鱼：[bug.cy](https://www.bug.cy)
 - Paji：[blog.mntpaji.com](https://blog.mntpaji.com)
 - 米莉亚：[mireya.moe](https://mireya.moe)
+- Crazy：[blog.csgo.ovh](https://blog.csgo.ovh)
