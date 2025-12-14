@@ -16,4 +16,80 @@ details summary::before {
 details[open] summary::before {
   content: "▾";
 }
+
+.lightbox-enabled {
+  cursor: zoom-in;
+  transition: box-shadow 0.2s ease;
+}
+
+.lightbox-enabled:hover {
+  box-shadow: 0 0 0 3px rgba(21, 120, 120, 0.2);
+}
+
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 9999;
+  padding: 1.5rem;
+}
+
+.lightbox-overlay img {
+  max-width: 95vw;
+  max-height: 85vh;
+  border-radius: 0.25rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.lightbox-overlay .caption {
+  color: #f0f0f0;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.lightbox-overlay .hint {
+  color: #bbbbbb;
+  font-size: 0.8rem;
+}
 </style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const main = document.querySelector('.main-content');
+  if (!main) return;
+
+  const overlay = document.createElement('div');
+  overlay.className = 'lightbox-overlay';
+  overlay.innerHTML = '<img alt=""><div class="caption"></div><div class="hint">点击任意位置或按 Esc 关闭</div>';
+  document.body.appendChild(overlay);
+
+  const overlayImg = overlay.querySelector('img');
+  const captionEl = overlay.querySelector('.caption');
+  const closeOverlay = () => {
+    overlay.style.display = 'none';
+    document.body.style.overflow = '';
+  };
+
+  overlay.addEventListener('click', closeOverlay);
+  document.addEventListener('keyup', (evt) => {
+    if (evt.key === 'Escape' && overlay.style.display === 'flex') {
+      closeOverlay();
+    }
+  });
+
+  main.querySelectorAll('img').forEach((img) => {
+    img.classList.add('lightbox-enabled');
+    img.addEventListener('click', () => {
+      overlayImg.src = img.src;
+      overlayImg.alt = img.alt || '';
+      captionEl.textContent = img.alt || '查看大图';
+      overlay.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    });
+  });
+});
+</script>
