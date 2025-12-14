@@ -8,6 +8,12 @@ redirect_from:
 
 # Misaka.HKG.Opt
 
+## 目录
+{: .no_toc }
+
+* TOC
+{:toc}
+
 ## 买
 
 ### 规格对照（可展开查看）
