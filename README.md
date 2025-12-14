@@ -18,5 +18,5 @@
 4. 如引用外部测速或监控链接，请在对应章节附上来源并注明「实时数据」或「历史数据」。
 
 ## 现有评测
-- [Misaka.HKG.Opt](reviews/misaka-hkg-opt.md)
-- [Misaka.TPE.Opt](reviews/misaka-tpe-opt.md)
+- [Misaka.HKG.Opt](https://nxtrace.github.io/REVIEW/reviews/misaka-hkg-opt/)
+- [Misaka.TPE.Opt](https://nxtrace.github.io/REVIEW/reviews/misaka-tpe-opt/)

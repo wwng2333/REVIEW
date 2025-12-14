@@ -2,9 +2,8 @@
 layout: default
 title: Misaka.TPE.Opt
 redirect_from:
-  - /reviews/misaka-tpe-opt/
-  - /REVIEW/reviews/misaka-tpe-opt/
-permalink: /reviews/misaka-tpe-opt.md
+  - /reviews/misaka-tpe-opt.md
+  - /REVIEW/reviews/misaka-tpe-opt.md
 ---
 
 # Misaka.TPE.Opt
@@ -48,9 +47,9 @@ permalink: /reviews/misaka-tpe-opt.md
 <summary>IPv4 去程</summary>
 
 <div align="center">
-  <img src="../assets/images/misaka-tpe-opt/IPv4去程/IMAGE 2025-12-14 14:16:13.jpg" alt="IPv4 去程路由 1" width="32%" />
-  <img src="../assets/images/misaka-tpe-opt/IPv4去程/IMAGE 2025-12-14 14:16:15.jpg" alt="IPv4 去程路由 2" width="32%" />
-  <img src="../assets/images/misaka-tpe-opt/IPv4去程/IMAGE 2025-12-14 14:16:17.jpg" alt="IPv4 去程路由 3" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4去程/IMAGE 2025-12-14 14:16:13.jpg' | relative_url }}" alt="IPv4 去程路由 1" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4去程/IMAGE 2025-12-14 14:16:15.jpg' | relative_url }}" alt="IPv4 去程路由 2" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4去程/IMAGE 2025-12-14 14:16:17.jpg' | relative_url }}" alt="IPv4 去程路由 3" width="32%" />
 </div>
 
 </details>
@@ -59,9 +58,9 @@ permalink: /reviews/misaka-tpe-opt.md
 <summary>IPv4 回程 · ICMP</summary>
 
 <div align="center">
-  <img src="../assets/images/misaka-tpe-opt/IPv4 回程 · ICMP/IMAGE 2025-12-14 14:18:29.jpg" alt="IPv4 回程 ICMP 1" width="32%" />
-  <img src="../assets/images/misaka-tpe-opt/IPv4 回程 · ICMP/IMAGE 2025-12-14 14:18:30.jpg" alt="IPv4 回程 ICMP 2" width="32%" />
-  <img src="../assets/images/misaka-tpe-opt/IPv4 回程 · ICMP/IMAGE 2025-12-14 14:18:34.jpg" alt="IPv4 回程 ICMP 3" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4 回程 · ICMP/IMAGE 2025-12-14 14:18:29.jpg' | relative_url }}" alt="IPv4 回程 ICMP 1" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4 回程 · ICMP/IMAGE 2025-12-14 14:18:30.jpg' | relative_url }}" alt="IPv4 回程 ICMP 2" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4 回程 · ICMP/IMAGE 2025-12-14 14:18:34.jpg' | relative_url }}" alt="IPv4 回程 ICMP 3" width="32%" />
 </div>
 
 </details>
@@ -70,9 +69,9 @@ permalink: /reviews/misaka-tpe-opt.md
 <summary>IPv4 回程 · TCP</summary>
 
 <div align="center">
-  <img src="../assets/images/misaka-tpe-opt/IPv4 回程 · TCP/IMAGE 2025-12-14 14:18:42.jpg" alt="IPv4 回程 TCP 1" width="32%" />
-  <img src="../assets/images/misaka-tpe-opt/IPv4 回程 · TCP/IMAGE 2025-12-14 14:18:43.jpg" alt="IPv4 回程 TCP 2" width="32%" />
-  <img src="../assets/images/misaka-tpe-opt/IPv4 回程 · TCP/IMAGE 2025-12-14 14:18:45.jpg" alt="IPv4 回程 TCP 3" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4 回程 · TCP/IMAGE 2025-12-14 14:18:42.jpg' | relative_url }}" alt="IPv4 回程 TCP 1" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4 回程 · TCP/IMAGE 2025-12-14 14:18:43.jpg' | relative_url }}" alt="IPv4 回程 TCP 2" width="32%" />
+  <img src="{{ '/assets/images/misaka-tpe-opt/IPv4 回程 · TCP/IMAGE 2025-12-14 14:18:45.jpg' | relative_url }}" alt="IPv4 回程 TCP 3" width="32%" />
 </div>
 
 </details>
@@ -85,7 +84,7 @@ permalink: /reviews/misaka-tpe-opt.md
   <details>
   <summary>展开查看</summary>
   
-  ![北京三网延迟监控截图](<../assets/images/misaka-tpe-opt/北京三网延迟监控截图(近七天).jpg>)
+  ![北京三网延迟监控截图]({{ '/assets/images/misaka-tpe-opt/北京三网延迟监控截图(近七天).jpg' | relative_url }})
 
   </details>
 
@@ -94,56 +93,56 @@ permalink: /reviews/misaka-tpe-opt.md
 <details>
 <summary>北京移动晚高峰</summary>
 
-![北京移动晚高峰](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京移动晚高峰.jpg>)
+![北京移动晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京移动晚高峰.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京移动白天</summary>
 
-![北京移动白天](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京移动白天.jpg>)
+![北京移动白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京移动白天.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京联通晚高峰</summary>
 
-![北京联通晚高峰](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京联通晚高峰.jpg>)
+![北京联通晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京联通晚高峰.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京联通白天</summary>
 
-![北京联通白天](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京联通白天.jpg>)
+![北京联通白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京联通白天.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京网通晚高峰</summary>
 
-![北京网通晚高峰](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京网通晚高峰.jpg>)
+![北京网通晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京网通晚高峰.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京网通白天</summary>
 
-![北京网通白天](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京网通白天.jpg>)
+![北京网通白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京网通白天.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京电信晚高峰</summary>
 
-![北京电信晚高峰](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京电信晚高峰.jpg>)
+![北京电信晚高峰]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京电信晚高峰.jpg' | relative_url }})
 
 </details>
 
 <details>
 <summary>北京电信白天</summary>
 
-![北京电信白天](<../assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京电信白天.jpg>)
+![北京电信白天]({{ '/assets/images/misaka-tpe-opt/北京四网代理单线程测速/北京电信白天.jpg' | relative_url }})
 
 </details>
 
@@ -152,7 +151,7 @@ permalink: /reviews/misaka-tpe-opt.md
 <details>
 <summary>综合性能跑分（YABS·GB5）</summary>
 
-![综合性能跑分](<../assets/images/misaka-tpe-opt/综合性能跑分.jpg>)
+![综合性能跑分]({{ '/assets/images/misaka-tpe-opt/综合性能跑分.jpg' | relative_url }})
 
 </details>
 
@@ -161,7 +160,7 @@ permalink: /reviews/misaka-tpe-opt.md
 <details>
 <summary>流媒体 / 平台解锁记录</summary>
 
-![解锁情况 1](<../assets/images/misaka-tpe-opt/解锁情况/IMAGE 2025-12-14 14:19:55.jpg>)
-![解锁情况 2](<../assets/images/misaka-tpe-opt/解锁情况/IMAGE 2025-12-14 14:19:56.jpg>)
+![解锁情况 1]({{ '/assets/images/misaka-tpe-opt/解锁情况/IMAGE 2025-12-14 14:19:55.jpg' | relative_url }})
+![解锁情况 2]({{ '/assets/images/misaka-tpe-opt/解锁情况/IMAGE 2025-12-14 14:19:56.jpg' | relative_url }})
 
 </details>
