@@ -3,7 +3,7 @@
 评测仓库，专注于云服务器（VPS）与网络表现的图文记录，帮助读者快速了解不同线路与套餐的实际体验。所有文章以 Markdown 形式保存，并配有完整的测速、路由与解锁截图。
 
 ## 在线阅读
-- GitHub Pages：<https://nxtrace.github.io/REVIEW/>
+- GitHub Pages：<https://review.nxtrace.org/>
 - 本地预览：直接在 Markdown 查看器或 VS Code 中打开 `reviews/*.md`。
 
 ## 仓库结构
@@ -18,9 +18,9 @@
 4. 如引用外部测速或监控链接，请在对应章节附上来源并注明「实时数据」或「历史数据」。
 
 ## 现有评测
-- [Misaka.HKG.Opt](https://nxtrace.github.io/REVIEW/reviews/misaka-hkg-opt/)
-- [Misaka.TPE.Opt](https://nxtrace.github.io/REVIEW/reviews/misaka-tpe-opt/)
-- [xTom Tokyo EPYC Gen 2](https://nxtrace.github.io/REVIEW/reviews/xtom-tokyo-epyc-gen2/)
+- [Misaka.HKG.Opt](https://review.nxtrace.org/reviews/misaka-hkg-opt/)
+- [Misaka.TPE.Opt](https://review.nxtrace.org/reviews/misaka-tpe-opt/)
+- [xTom Tokyo EPYC Gen 2](https://review.nxtrace.org/reviews/xtom-tokyo-epyc-gen2/)
 
 ## 友情链接
 - 古博：<https://www.gubo.org>
